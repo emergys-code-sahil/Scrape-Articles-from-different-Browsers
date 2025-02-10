@@ -49,6 +49,10 @@ pip install -r requirements.txt
 cd src
 ```
 
+## 7. Run main file
 
+```bash
+python main.py
+```
 
 
