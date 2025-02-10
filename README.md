@@ -43,13 +43,19 @@ Install the necessary Python packages listed in requirements.txt:
 pip install -r requirements.txt
 ```
 
-## 6. Got to src
+## 6. Deactivate the venv
+
+``` bash
+deactivate
+```
+
+## 7. Got to src
 
 ```bash
 cd src
 ```
 
-## 7. Run main file
+## 8. Run main file
 
 ```bash
 python main.py
